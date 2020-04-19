@@ -1,3 +1,4 @@
 config.txt
 *.js
 public/data
+/public/
